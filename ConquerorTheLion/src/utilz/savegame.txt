@@ -1,0 +1,10 @@
+Player Position: x=100, y=200
+Player Health: 35
+Current Level: 1
+Inventory: potion=2, key=1
+Enemies: 
+  Crocodile: x=300, y=400, health=50
+  Crocodile: x=500, y=600, health=50
+Objects: 
+  Potion: x=150, y=250, type=RED_POTION
+  GameContainer: x=200, y=300, type=BOX
